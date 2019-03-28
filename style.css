@@ -6,12 +6,14 @@
 p{
   margin: 0px;padding: 0px;
 }
+b{
+    color: chocolate;
+}
 .info{
     margin-top: 5%;
     padding: 5px;
     border: 1px;
     border-color: cyan;
-    background: lightgray;
     border-radius: 5px;
     width: 100%;
     float: left;
@@ -26,6 +28,7 @@ p{
     width: 100%;
 }
 .aboutMe{
+    width: 100%;
     float: left;
 }
 .topic{
