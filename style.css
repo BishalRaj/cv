@@ -17,6 +17,8 @@ b{
     border-radius: 5px;
     width: 100%;
     float: left;
+    background: white; 
+    margin-bottom: 5%;
 }
 .info p{
     font-size: 12px;
@@ -27,8 +29,10 @@ b{
 .image{
     width: 100%;
 }
-.aboutMe{
+.rightDiv{
     width: 100%;
+    margin-bottom: 1%;
+    background-color: white;
     float: left;
 }
 .topic{
@@ -37,13 +41,16 @@ b{
     background-color: aqua;
     color: chocolate;
 }
-.aboutMe p{
+.rightDiv p{
     font-size: 15px;
 }
-.aboutMe p i{
+.rightDiv p i{
     color: chocolate;
 }
-.profile{
+.leftDiv{
     float: left;
-    margin-top: 5px;
+    background-color: white;
+    margin-top: 5%;
+    margin-right: 0px;
+    padding: 1%;
 }
