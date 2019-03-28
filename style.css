@@ -23,7 +23,7 @@ p{
     color: chocolate;
 }
 .image{
-    background-color: red;
+    width: 100%;
 }
 .aboutMe{
     float: left;
