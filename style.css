@@ -1,0 +1,46 @@
+*{
+    font-size: 15px;
+    margin: 0px;
+    padding: 0px;
+}
+p{
+  margin: 0px;padding: 0px;
+}
+.info{
+    margin-top: 5%;
+    padding: 5px;
+    border: 1px;
+    border-color: cyan;
+    background: lightgray;
+    border-radius: 5px;
+    width: 100%;
+    float: left;
+}
+.info p{
+    font-size: 12px;
+}
+.info h6{
+    color: chocolate;
+}
+.image{
+    background-color: red;
+}
+.aboutMe{
+    float: left;
+}
+.topic{
+    padding-left: 2%;
+    width: 100%;
+    background-color: aqua;
+    color: chocolate;
+}
+.aboutMe p{
+    font-size: 15px;
+}
+.aboutMe p i{
+    color: chocolate;
+}
+.profile{
+    float: left;
+    margin-top: 5px;
+}
